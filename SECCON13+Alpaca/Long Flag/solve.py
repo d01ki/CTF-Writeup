@@ -1,0 +1,6 @@
+import os
+from Crypto.Util.number import long_to_bytes
+
+flag_long = 35774448546064092714087589436978998345509619953776036875880600864948129648958547184607421789929097085
+flag_bytes = long_to_bytes(flag_long)
+print(flag_bytes)
