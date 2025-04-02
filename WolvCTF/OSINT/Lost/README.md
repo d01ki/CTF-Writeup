@@ -16,5 +16,5 @@ I need your help. My friend Jimmy has absolutely zero sense of direction and may
 
 3月7日午後1時26分/1時27分 (東部標準時)、その時間にEWRを出発したのはUA2050便
 
-##　flag
+## flag
 `wctf{UA2050}`
