@@ -73,3 +73,7 @@ Flag Found: <!DOCTYPE html>
 </body>
 </html>
 ```
+
+## flag
+
+`CTF{i-saved-the-dragons-and-all-i-got-was-this-stupid-flag}`

@@ -21,6 +21,7 @@ PNGファイルのマジックバイトは以下が正しいが今回のmagic.pn
 ```
 89 50 4E 47 0D 0A 1A 0A
 ```
+## solution
 
 正しいマジックバイトを上書きする
 
@@ -38,5 +39,6 @@ PNGに直ったので開くとFlagが出てくる
 └─$ file magic.png                                                          
 magic.png: PNG image data, 1441 x 1440, 8-bit/color RGBA, non-interlaced
 ```
+## flag
 
 `CTF{g0t_th3_p0w3r_u_n33d}`

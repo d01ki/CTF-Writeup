@@ -1,4 +1,4 @@
-#go-git-it
+# go-git-it
 
 You didn't commit anything sensitive, right?
 https://go-git-it-f7d62cbb.challenges.bsidessf.net/

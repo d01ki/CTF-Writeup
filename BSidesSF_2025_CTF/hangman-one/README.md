@@ -17,4 +17,6 @@ https://hangman-one-a7344a19.challenges.bsidessf.net/
 
 ![](image.png)
 
+## flag
+
 `CTF{hangm4nw1thfr1end5andf03s}`

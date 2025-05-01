@@ -14,3 +14,7 @@ https://sighting-5da73608.challenges.bsidessf.net/picture.php?file=uploads/drago
 
 以下にアクセスすると出てくる
 https://sighting-5da73608.challenges.bsidessf.net/picture.php?file=/flag.txt
+
+## flag
+
+`CTF{dotdotslashdotdot}`
