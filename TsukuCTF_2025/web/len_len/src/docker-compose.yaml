@@ -1,0 +1,17 @@
+services:
+  lenlen:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "28888:28888"
+    restart: always
+    environment:
+      - HOST=localhost
+      - PORT=28888
+      - FLAG=TsukuCTF25{dummy_flag}
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 0.5g
