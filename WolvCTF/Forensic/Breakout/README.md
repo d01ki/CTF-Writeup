@@ -13,5 +13,5 @@ the file "breakout.ch8" does already exist. overwrite ? (y/n) y
 wrote extracted data to "breakout.ch8".
 ```
 
-CHIP-8（チップエイト）という仮想マシン用のバイナリデータだね。
+CHIP-8（チップエイト）という仮想マシン用のバイナリデータ
 CHIP-8 は、1970年代に作られた簡単なインタープリタ言語で、レトロゲームを動かすためのものらしい

