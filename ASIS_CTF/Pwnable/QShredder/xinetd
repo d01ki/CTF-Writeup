@@ -1,0 +1,12 @@
+service shredder
+{
+    disable = no
+    type = UNLISTED
+    socket_type = stream
+    protocol = tcp
+    port = 11337
+    bind = 0.0.0.0
+    wait = no
+    user = pwn
+    server = /home/pwn/run.sh
+}

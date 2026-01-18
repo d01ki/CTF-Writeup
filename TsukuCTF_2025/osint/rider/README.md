@@ -12,6 +12,8 @@
 
 OTi Fried Chickenの看板を目印にググる
 
+https://otifriedchicken.com/
+
 ## flag
 
 `TsukuCTF25{-7.3189_110.4971}`

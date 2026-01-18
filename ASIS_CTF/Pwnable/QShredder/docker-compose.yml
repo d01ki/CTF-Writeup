@@ -1,0 +1,12 @@
+version: "3"
+services:
+  asis-qshredder:
+    build: .
+    platform: linux/amd64
+    restart: always
+    ulimits:
+      nofile: 1024
+    ports:
+      - "11337:11337"
+    expose:
+      - "11337"

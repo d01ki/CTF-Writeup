@@ -17,3 +17,11 @@ https://novosti-n.org/news/Glava-OVA-pokazal-posledstvyya-udara-po-prygorodu-Zap
 
 
 https://novosti.dn.ua/news/339835-u-peredmisti-zaporizhzhya-rakety-okupantiv-zrujnuvaly-gimnaziyu
+
+
+ザポリージャ州のステプネ体育館らしいのでGooglemapで探す
+Stepne in Zaporizhzhia Oblast gymnasium
+
+## flag
+
+`TsukuCTF25{47.797_35.306}`

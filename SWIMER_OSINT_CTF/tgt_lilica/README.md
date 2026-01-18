@@ -1,9 +1,7 @@
 # lilica_01_social
 
 lilica は2026年時点でクリエイターとして活動しており、「黄昏ブロッサムリリカ」と名乗っていたことが分かっています。 また、Xのアカウントを持っていたことが確認されています。
-
 そのXアカウントのID（スクリーンネーム）を解答してください。
-
 例えば、@gov_online が対象のアカウントの場合、Flag は SWIMMER{@gov_online} となります。
 
 ## solution
@@ -21,7 +19,6 @@ SWIMMER{@twilight_lilica}
 
 lilica はVRにも関心があるようで、未来でもVR関連の活動がわずかながら確認されています。
 lilica が2026年時点で使っていたVRChatのユーザーIDを特定し、解答してください。
-
 VRChatのユーザー情報はブラウザからも確認できます。
 例えば、対象アカウントのURLが https://vrchat.com/home/user/usr_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx の場合、 Flagは SWIMMER{usr_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} となります。
 
@@ -29,7 +26,6 @@ VRChatのユーザー情報はブラウザからも確認できます。
 
 lilica はVRChatでの活動をSNSに投稿していたようです。
 2025年11月9日（日本時間）に投稿された画像にはある「ワールド」が写っているようです。このワールドのIDを解答してください。
-
 VRChatのワールド情報はブラウザからも確認できます。
 例えば、対象のワールドのURLが https://vrchat.com/home/world/wrld_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/info だった場合、
 Flagは SWIMMER{wrld_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} となります。
